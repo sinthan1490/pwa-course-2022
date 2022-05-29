@@ -1,0 +1,15 @@
+.Video{
+    background-color: aquamarine;
+    width: auto;
+    height: 200px;
+    margin: 10px;
+    text-align: center;
+}
+
+.More{
+    background-color: brown;
+    width: auto;
+    height: 200px;
+    margin: 10px;
+    text-align: center;
+}
